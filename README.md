@@ -36,7 +36,7 @@ NOTE:
 ## Instructions
 
 * Create a runnable Node.js project.
-* You may use Docker if you want to add external services, e.g. a database.
+* You may use Docker if you want to add services, e.g. a database.
 * Put all of it in a git repo, with instructions on how to run.
 * Write down thoughts on:
   * important design decisions
