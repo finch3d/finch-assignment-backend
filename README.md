@@ -36,7 +36,7 @@ NOTE:
 ## Instructions
 
 * Create a runnable Node.js project.
-* Use Docker if you want to add any data base.
+* Use Docker if you want to add any database.
 * Put all of it in a git repo, with instructions on how to run.
 * Write down thoughts on:
   * important design decisions
