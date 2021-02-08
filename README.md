@@ -30,11 +30,11 @@ Create an API that supports the following requirements:
 * A user needs to be `admin` to modify add or remove members in an organization.
 
 NOTE: 
-* Managing users and organizations is outside the scope of this task, so it's fine to use a static list.
+* Creating users and organizations is outside the scope of this task, so it's fine to use a static list.
 
 ## Instructions
 
-* Create a runnable Node.js project, possibly with a Dockerfile, with instructions on how to run.
+* Create a runnable Node.js project, possibly in Docker, with instructions on how to run.
 * Put all of it in a git repo, and provide a link.
 * Write down thoughts on:
   * important design decisions
