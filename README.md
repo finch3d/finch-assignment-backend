@@ -30,7 +30,7 @@ Create an API that supports the following requirements:
 * A user needs to be `admin` to modify add or remove members in an organization.
 
 NOTE: 
-* Creating users and organizations is outside the scope of this task, so it's fine to use a static list.
+* Creating users and organizations is outside the scope of this task.
 
 ## Instructions
 
