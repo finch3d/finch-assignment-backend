@@ -26,7 +26,7 @@ Finch now wants add the possiblity for a user to be a member of an organization.
 
 Create an API that supports the following requirements: 
 * A user can be added and removed as a member of one or more organizations.
-* If a user is a member, they must have one of these roles: `admin`, `member`.
+* A member must have one of these roles: `admin`, `member`.
 * A user needs to be `admin` to modify add or remove members in an organization.
 * An organization must have at least one admin.
 
