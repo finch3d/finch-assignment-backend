@@ -2,7 +2,7 @@
 
 ## Background
 
-Today Finch has a domain with users and organizations exposed through a REST api, e.g. `/users/:userId` and `/orgs/:orgId`.
+Existing is a domain with users and organizations exposed through a REST api, e.g. `/users/:userId` and `/orgs/:orgId`.
 
 Example user
 ```json
@@ -20,7 +20,7 @@ Example organization
 }
 ```
 
-Finch now wants add the possiblity for a user to be a member of an organization.
+Now we want to add the possiblity for a user to be a member of an organization.
 
 ## Task
 
