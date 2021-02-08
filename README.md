@@ -34,8 +34,8 @@ NOTE:
 
 ## Instructions
 
-* Create a runnable Node.js project, in Docker, with instructions on how to run.
-* Put all of it in a git repo, and provide a link.
+* Create a runnable Node.js project, in Docker.
+* Put all of it in a git repo, with instructions on how to run.
 * Write down thoughts on:
   * important design decisions
   * assumptions
