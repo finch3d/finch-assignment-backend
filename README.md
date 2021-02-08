@@ -4,11 +4,7 @@
 
 Finch has a domain with `user`, `organization` and `project`, which are exposed as REST apis, e.g. `/users/:userId`, `/orgs/:orgId` and `/projects/:projectId`.
 
-### Organization
-```
-GET /orgs/:orgId
-```
-=>
+Example organization
 ```
 {
   id: "b03bbcc0-d693-44d9-b60c-345a88e2301c",
@@ -16,11 +12,7 @@ GET /orgs/:orgId
 }
 ```
 
-### User
-```
-GET /users/:userId
-```
-=>
+Example user
 ```
 {
   id: "1843a80a-98f2-4928-8c1a-a53efe99adbe",
@@ -28,11 +20,7 @@ GET /users/:userId
 }
 ```
 
-### Project
-```
-GET /projects/:projectId
-```
-=>
+Example project
 ```
 {
   id: "63d8b70f-815e-474b-830b-3e96a25544e4",
