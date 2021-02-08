@@ -43,18 +43,20 @@ GET /projects/:projectId
 
 Finch now needs to add better access control so that we can control what a user can do with an organization and project, e.g a user must be a member of an organization to get read access ot its projects.
 
-## Tasks
+## Task 1
 Create an API that supports the following requirements:
 * A user can be added and removed a member of one or more organizations.
 * If a user is a member, they must have one of these roles: `admin`, `member`.
 * A user needs to be org admin to modify add or remove members.
+
+## Task 2
 * Default organization access rights for all projects is `read` for all org members.
 * Access rights for a project can be set for a specific user.
 * Possible project access rights are: `readwrite`, `read`.
 * A user needs to be org admin to modify any access rights for a project.
 * Document how the `/projects` endpoint can make use the access rights, e.g. how to call a helper function.
 
-### Bonus Tasks
+## Task 3
 * Default access rights can be set for an organization, e.g. `readwrite` or nothing.
 * Default access rights can be set for a project, which overrides the default organization rights, e.g. `read` or `readwrite`.
 
