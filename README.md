@@ -5,27 +5,27 @@
 Finch has a domain with `user`, `organization` and `project`, which are exposed as REST apis, e.g. `/users/:userId`, `/orgs/:orgId` and `/projects/:projectId`.
 
 Example organization
-```
+```json
 {
-  id: "b03bbcc0-d693-44d9-b60c-345a88e2301c",
-  name: "Finch"
+  "id": "b03bbcc0-d693-44d9-b60c-345a88e2301c",
+  "name": "Finch"
 }
 ```
 
 Example user
-```
+```json
 {
-  id: "1843a80a-98f2-4928-8c1a-a53efe99adbe",
-  name: "Tony Stark",
+  "id": "1843a80a-98f2-4928-8c1a-a53efe99adbe",
+  "name": "Tony Stark",
 }
 ```
 
 Example project
-```
+```json
 {
-  id: "63d8b70f-815e-474b-830b-3e96a25544e4",
-  name: "Turning Torso"
-  orgId: "b03bbcc0-d693-44d9-b60c-345a88e2301c"
+  "id": "63d8b70f-815e-474b-830b-3e96a25544e4",
+  "name": "Turning Torso"
+  "orgId": "b03bbcc0-d693-44d9-b60c-345a88e2301c"
 }
 ```
 
