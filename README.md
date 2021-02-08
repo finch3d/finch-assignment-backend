@@ -2,7 +2,7 @@
 
 ## Background
 
-Existing is a domain with users and organizations exposed through a REST api, e.g. `/users/:userId` and `/orgs/:orgId`.
+We have a domain with users and organizations exposed through a REST api, e.g. `/users/:userId` and `/orgs/:orgId`.
 
 Example user
 ```json
