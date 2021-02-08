@@ -34,7 +34,8 @@ NOTE:
 
 ## Instructions
 
-* Create a runnable Node.js project, i a git repo, with instructions on how to run.
+* Create a runnable Node.js project, possibly with a Dockerfile, with instructions on how to run.
+* Put all of it in a git repo, and provide a link.
 * Write down thoughts on:
   * important design decisions
   * assumptions
