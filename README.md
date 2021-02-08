@@ -24,7 +24,7 @@ Example project
 ```json
 {
   "id": "63d8b70f-815e-474b-830b-3e96a25544e4",
-  "name": "Turning Torso"
+  "name": "Turning Torso",
   "orgId": "b03bbcc0-d693-44d9-b60c-345a88e2301c"
 }
 ```
