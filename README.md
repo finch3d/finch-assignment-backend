@@ -5,6 +5,8 @@ Create a simple REST based API that supports the following requirements:
 - Match only the beginning of firstname or lastname or segment in email
 - Support pagination, i.e. it should be possible to fetch a page/subset of all managers at a time.
 
+If you have the time, add another endpoint with mathing inside all parts of firstname, lastname, email match, but matches in the beginning are weighted more.
+
 Use the data available here: https://gist.github.com/kretz/ac01d631029a61812a023792a41215e2
 
 ## Notes
